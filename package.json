@@ -1,5 +1,5 @@
 {
-  "name": "web3.0_typescript_project05_word_counter",
+  "name": "inquirer_word_counter_05_zm",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,8 +11,17 @@
     "type": "git",
     "url": "git+https://github.com/muhammadzubairmoosani/web3.0_typeScript_project05_word_counter.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "typescript",
+    "word-counter",
+    "inquirer",
+    "CLI",
+    "command-line",
+    "text-processing",
+    "utility"
+  ],
+  "bin": "./index.js",
+  "author": "zubair moosani",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/muhammadzubairmoosani/web3.0_typeScript_project05_word_counter/issues"
